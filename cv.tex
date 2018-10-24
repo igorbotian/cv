@@ -4,7 +4,9 @@
 \usepackage{fancyhdr}
 \usepackage{footnote}
 \usepackage{fp}
+\usepackage{graphicx}
 \usepackage[hidelinks]{hyperref}
+\usepackage{multicol}
 \usepackage[utf8]{inputenc}
 \usepackage{url}
 
@@ -49,17 +51,20 @@
 
 \section*{CV}
 
-\begin{tabular}{ll}
-    \textbf{Position} & Java developer \\
-    \textbf{Full name} & \myFullName \\
-    \textbf{Age} & \FPtrunc\myage{\myage}{0}\myage\ years old \\
-    \textbf{Date of birth} & \myBirthMonthAsString\ \myBirthDay\ \myBirthYear \\
-    \textbf{Status} & married \\
-    \textbf{Citizenship} & Russian Federation \\
-    \textbf{Location} & Saint Petersburg, Russia \\
-    \textbf{Phone number} & +7 (967) 511-19-64 \\
-    \textbf{E-mail} & igor.botian@gmail.com \\
-\end{tabular}
+\begin{multicols}{2}
+    \begin{tabular}{ll}
+        \textbf{Position} & Java developer \\
+        \textbf{Full name} & \myFullName \\
+        \textbf{Age} & \FPtrunc\myage{\myage}{0}\myage\ years old \\
+        \textbf{Date of birth} & \myBirthMonthAsString\ \myBirthDay\ \myBirthYear \\
+        \textbf{Status} & married \\
+        \textbf{Citizenship} & Russian Federation \\
+        \textbf{Location} & Saint Petersburg, Russia \\
+        \textbf{Phone number} & +7 (967) 511-19-64 \\
+        \textbf{E-mail} & igor.botian@gmail.com \\
+    \end{tabular}
+    \null\hfill \includegraphics[width=0.5\linewidth]{photo.jpg}
+\end{multicols}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
