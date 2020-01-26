@@ -7,6 +7,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v1
-    - uses: mgred/asciidoctor-action@master
+    - uses: docker://asciidoctor/docker-asciidoctor:latest
       with:
         args: asciidoctor-pdf cv.adoc
