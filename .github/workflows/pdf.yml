@@ -12,5 +12,5 @@ jobs:
         args: asciidoctor-pdf -o cv_igor_botian.pdf cv.adoc
     - uses: actions/upload-artifact@v1
       with:
-        name: cv_igor_botian.pdf
+        name: cv_igor_botian
         path: cv_igor_botian.pdf
