@@ -1,4 +1,4 @@
-name: Build PDF
+name: PDF
 
 on: [push]
 
@@ -9,4 +9,4 @@ jobs:
     - uses: actions/checkout@v1
     - uses: mgred/asciidoctor-action@master
       with:
-        args: asciidoctor -r asciidoctor-pdf -b pdf cv.adoc
+        args: asciidoctor-pdf cv.adoc
