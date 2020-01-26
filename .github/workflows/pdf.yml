@@ -10,3 +10,8 @@ jobs:
     - uses: docker://asciidoctor/docker-asciidoctor:latest
       with:
         args: asciidoctor-pdf cv.adoc
+    - run: mkdir -p output
+    - uses: actions/upload-artifact@v1
+      with:
+        name: CV PDF file
+        path: cv.pdf
