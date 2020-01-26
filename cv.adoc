@@ -1,0 +1,173 @@
+= CV
+:notitle:
+:author: Igor Botian
+:doctype: article
+
+//----------------------------------------------------------------------------------------------------------------------
+
+[.text-right]
+Igor Botian, \igor.botian@gmail.com
+
+//----------------------------------------------------------------------------------------------------------------------
+
+[align=left]
+== CV
+
+[frame=none]
+[grid=none]
+[width=100%]
+[cols="20%,30%,50%"]
+|===
+| *Position* | Java developer .9+^.^| image:photo.jpg[,170,240]
+| *Full name* | Igor Botian
+| *Age* | 32 years old
+| *Date of birth* | Dec 09 1987
+| *Status* | married
+| *Citizenship* | Russian Federation
+| *Location* | Saint Petersburg, Russia
+| *Phone number* | +7 (967) 511-19-64
+| *E-mail* | \igor.botian@gmail.com
+|===
+
+//----------------------------------------------------------------------------------------------------------------------
+
+== Work experience
+
+=== Jun 2012 - Present, Alcatel-Lucent Enterprise
+
+[frame=none]
+[grid=none]
+[cols="5%,20%,75%"]
+|===
+| | *Position* | Java developer; Tech. lead; Scrum master (certified footnote:[http://bcert.me/szowjwtj])
+| | *Project* | OpenTouch Solutions footnote:[https://www.al-enterprise.com/en/products/platforms/opentouch-multimedia-services]
+| | *Technologies* |Java SE, OpenJPA, PostgreSQL, RabbitMQ, Tomcat, OpenSUSE Linux, Mercurial, Maven
+|===
+
+=== Sep 2009 - Jan 2012, Radar MMS
+
+[frame=none]
+[grid=none]
+[cols="5%,20%,75%"]
+|===
+| | *Position* | Java developer
+| | *Project* | Ballistic intercontinental rocket engineering footnote:[http://www.radar-mms.com/Product.aspx?product_7]
+(target detection module based on antenna-phased arrays)
+(software modeling)
+| | *Customer* | The Ministry of Defense of the Russian Federation
+| | *Technologies* | Java SE, Swing, Ant, Git
+|===
+
+=== Mar 2008 - Aug 2010, NIC SPb ETU
+
+[frame=none]
+[grid=none]
+[cols="5%,20%,75%"]
+|===
+| | *Year* | 2010
+| | *Position* | Java/C++ developer
+| | *Project* | Satellite data processing and storage system footnote:[http://www.nicetu.spb.ru/index.php/ru/resheniya-i-proekty/cistemy-sbora-i-obrabotki-izmeritelnoj-informatsii]
+| | *Customer* | The Ministry of Defense of the Russian Federation
+| | *Technologies* | Java SE, GWT, PostgreSQL, JNI, Ant, SVN,  OS MSVS (Russian military OS based on Fedora Linux)
+|===
+
+[frame=none]
+[grid=none]
+[cols="5%,20%,75%"]
+|===
+| | *Year* | 2009
+| | *Position* | Java developer
+| | *Project* | Satellite trajectory construction system footnote:[http://www.nicetu.spb.ru/index.php/ru/resheniya-i-proekty/kompleksy-rascheta-etalonnykh-traektorij-dlya-vypolneniya-yustirovochnykh-rabot]
+| | *Customer* | The Russian Federal Space Agency
+| | *Technologies* | Java SE, Swing, Maven, SVN
+|===
+
+[frame=none]
+[grid=none]
+[cols="5%,20%,75%"]
+|===
+| | *Year* | 2008
+| | *Position* | Java developer
+| | *Project* | Electronic declaration system footnote:[http://www.nicetu.spb.ru/index.php/ru/resheniya-i-proekty/sistema-monitoringa-i-kontrolya-soversheniya-tamozhennykh-operatsij]
+| | *Customer* | The Federal Customs Service of Russia
+| | *Technologies* | JSP, Tomcat, Oracle, JavaScript, Ant, SVN
+|===
+
+//----------------------------------------------------------------------------------------------------------------------
+
+== Educational background
+
+=== 2012 - 2015
+
+[frame=none]
+[grid=none]
+[cols="5%,20%,75%"]
+|===
+| | *University* | Saint Petersburg State Forestry Technical University, Russia
+| | *Degree* | Ph. D. (Technology)
+| | *Major subject* | Industrial process management and automation
+|===
+
+=== 2010 - 2012
+
+[frame=none]
+[grid=none]
+[cols="5%,20%,75%"]
+|===
+| | *University* | Lappeenranta University of Technology, Finland
+| | *Degree* | M. Sc. (Technology)
+| | *Major Subject* | Communication software
+|===
+
+=== 2009 - 2011
+
+[frame=none]
+[grid=none]
+[cols="5%,20%,75%"]
+|===
+| | *University* | Saint Petersburg State Electrotechnical University, Russia
+| | *Degree* | M. Sc. (Technology)
+| | *Major Subject* | Applied mathematics and informatics
+|===
+
+=== 2005 - 2009
+
+[frame=none]
+[grid=none]
+[cols="5%,20%,75%"]
+|===
+| | *University* | Saint Petersburg State Electrotechnical University, Russia
+| | *Degree* | B. Sc. (Technology)
+| | *Major Subject* | Engineering and technology
+|===
+
+//----------------------------------------------------------------------------------------------------------------------
+
+== Language skills
+
+[frame=none]
+[grid=none]
+[cols="5%,20%,75%"]
+|===
+| | *Russian* | Native
+| | *English* | Upper-intermediate, fluent
+| | *Finnish* | Basic
+|===
+
+//----------------------------------------------------------------------------------------------------------------------
+
+== Publications
+
+[frame=none]
+[grid=none]
+[cols="5%,20%,75%"]
+|===
+| | *In English* | I. Botian, ‘Software security vulnerabilities in mobile peer-to-peer environment“, ISBN 978-3-659-11253-9
+| | *In Russian* | 6 publications (machine learning, SVM)
+|===
+
+//----------------------------------------------------------------------------------------------------------------------
+
+== Links
+
+// all links go here as footnotes
