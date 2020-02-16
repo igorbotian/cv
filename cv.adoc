@@ -1,172 +1,103 @@
 = CV
 :notitle:
-:author: Igor Botian
+:author: Игорь Ботян
 :doctype: article
 
-//----------------------------------------------------------------------------------------------------------------------
-
-[.text-right]
-Igor Botian, \igor.botian@gmail.com
-
-//----------------------------------------------------------------------------------------------------------------------
-
-== CV
+== Игорь Ботян
 
 [frame=none]
 [grid=none]
 [width=100%]
-[cols="20%,30%,50%"]
+[cols="22%,32%,45%"]
 |===
-| *Position* | Java developer .9+^.^| image:photo.jpg[,170,240]
-| *Full name* | Igor Botian
-| *Age* | 32 years old
-| *Date of birth* | Dec 09 1987
-| *Status* | married
-| *Citizenship* | Russian Federation
-| *Location* | Saint Petersburg, Russia
-| *Phone number* | +7 (967) 511-19-64
-| *E-mail* | \igor.botian@gmail.com
+| *Позиция* | Java-разработчик .8+^.^| image:photo.jpg[,170,240]
+| *Возраст* | 32 года
+| *Семейный статус* | женат
+| *Гражданство* | РФ
+| *Город* | Санкт-Петербург
+| *Тел. номер* | +7 (967) 511-19-64
+| *E-mail* | mailto:igor.botian@gmail.com[igor.botian@gmail.com]
+| *GitHub* | https://www.github.com/igorbotian[@igorbotian]
 |===
 
-//----------------------------------------------------------------------------------------------------------------------
+=== Технологии
 
-== Work experience
+_Core Java_, _Maven_, _Linux_
 
-=== Jun 2012 - Present, Alcatel-Lucent Enterprise
+=== Опыт работы
+
+==== 2012 - наст. время, Alcatel-Lucent Enterprise
+
+Работаю в проекте по обеспечению офисной связи в рамках организации (b2b).
+Заказчиками являются аэропорты, банки, сети магазинов, отели, государственные учреждения и тд.
+Проект международный, в качестве рабочего языка используется английский.
+Общий объём кодовой базы около 20 млн строк кода.
+Команда отвечает за наиболее низкоуровневые компоненты (около 1,5 млн строк кода).
+
+Технологический стек: Java SE, Maven, JUnit/TestNG, OpenJPA, PostgreSQL, RabbitMQ, OpenSUSE, Git, Jenkins, Docker.
+
+Отвечаю за принятие технических решений в команде.
+Обладаю большим опытом поддержки legacy-кода.
+Успешно провёл серию глобальных рефакторингов, позволивших решить в проекте проблемы фундаментального характера.
+Исправил десятки критических ошибок в работе проекта на стороне заказчика в кратчайшие сроки.
+
+Реализовал средство миграции со старого проекта на текущий, позволившее заключить новые договора со старыми клиентами.
+Занимался миграцией с Java 6 на Java 7, с Java 7 на Java 8, с Maven 2 на Maven 3, с Mercurial на Git, с JUnit 4 на Junit 5.
+Был глобальным ответственным лицом в проекте по переходу с Oracle JDK на AZUL Zulu.
+Непосредственно участвовал в технических переговорах с AZUL, являюсь контактным лицом.
+
+Успешно провёл ряд оптимизаций в основных компонентах: сократил время выполнения функциональных тестов в 8 раз (с 40м до 5м), end-to-end тестов в 3 раза (с 1ч 40м до 30м), уменьшил размер дистрибутива на 40% (с 62Мб до 35Мб).
+Реализовал множество вспомогательных утилит по автоматизации процессов.
+Занимался развитием функционала и оптимизацией процессов, связанных с continuous delivery.
+Осуществил внедрение практики статического анализа кода (Sonar, JaCoCo, FindBugs, error-prone compiler, jhades).
+
+Провёл десятки внутренних технических презентаций.
+Выполнял в команде роль скрам-мастера, получил международный сертификат, внёс десятки изменений в процесс разработки, принятый в команде.
+Был инициатором перехода с Eclipse на IntelliJ IDEA, а также оформления подписки на Safari Book Online и PluralSight.
+Имею длительный опыт удалённой работы.
+
+==== 2009 - 2012, АО НПП Радар Ммс
+
+Участвовал в моделировании работы системы наведения межконтинентальных баллистических ракет (NDA).
+Используемые технологии: Java SE, Swing, JUnit.
+Работал удалённо.
+
+==== 2008 - 2010, АО НИЦ СПб ЭТУ
+
+Занимался поддержкой системы электронного декларирования товаров для ФТС РФ.
+Участвовал в создании системы сбора и хранения инфорамции, получаемых со спутников, для министерства обороны РФ (NDA).
+Реализовал средство прогнозирования положения спутников для Роскосмоса.
+Используемые технологии: Java SE, JSP, GWT, Swing, C++, Qt.
+
+=== Образование
 
 [frame=none]
 [grid=none]
-[cols="5%,20%,75%"]
+[cols="15%,85%"]
 |===
-| | *Position* | Java developer; Tech. lead; Scrum master (certified footnote:[http://bcert.me/szowjwtj])
-| | *Project* | OpenTouch Solutions footnote:[https://www.al-enterprise.com/en/products/platforms/opentouch-multimedia-services]
-| | *Technologies* |Java SE, OpenJPA, PostgreSQL, RabbitMQ, Tomcat, OpenSUSE Linux, Mercurial, Maven
+| *2010-2012* | Lappeenranta University of Technology,
+| | _M. Sc. (Technology), Communication software_
+| *2005-2011* | СПбГЭТУ ЛЭТИ
+| | _магистр прикладной математики и информатики_
 |===
 
-=== Sep 2009 - Jan 2012, Radar MMS
+=== Языки
+
+Английский (свободное общение и чтение литературы), финский (базовый уровень).
+
+=== Публикации
 
 [frame=none]
 [grid=none]
-[cols="5%,20%,75%"]
+[width=100%]
+[cols="20%,80%"]
 |===
-| | *Position* | Java developer
-| | *Project* | Ballistic intercontinental rocket engineering footnote:[http://www.radar-mms.com/Product.aspx?product_7]
-(target detection module based on antenna-phased arrays)
-(software modeling)
-| | *Customer* | The Ministry of Defense of the Russian Federation
-| | *Technologies* | Java SE, Swing, Ant, Git
+| *На английском* | I. Botian, "Software security vulnerabilities in mobile peer-to-peer environment", ISBN 978-3-659-11253-9
+| *На русском* | 6 публикаций в области машинного обучения (_SVM_)
 |===
 
-=== Mar 2008 - Aug 2010, NIC SPb ETU
+=== О себе
 
-[frame=none]
-[grid=none]
-[cols="5%,20%,75%"]
-|===
-| | *Year* | 2010
-| | *Position* | Java/C++ developer
-| | *Project* | Satellite data processing and storage system footnote:[http://www.nicetu.spb.ru/index.php/ru/resheniya-i-proekty/cistemy-sbora-i-obrabotki-izmeritelnoj-informatsii]
-| | *Customer* | The Ministry of Defense of the Russian Federation
-| | *Technologies* | Java SE, GWT, PostgreSQL, JNI, Ant, SVN,  OS MSVS (Russian military OS based on Fedora Linux)
-|===
-
-[frame=none]
-[grid=none]
-[cols="5%,20%,75%"]
-|===
-| | *Year* | 2009
-| | *Position* | Java developer
-| | *Project* | Satellite trajectory construction system footnote:[http://www.nicetu.spb.ru/index.php/ru/resheniya-i-proekty/kompleksy-rascheta-etalonnykh-traektorij-dlya-vypolneniya-yustirovochnykh-rabot]
-| | *Customer* | The Russian Federal Space Agency
-| | *Technologies* | Java SE, Swing, Maven, SVN
-|===
-
-[frame=none]
-[grid=none]
-[cols="5%,20%,75%"]
-|===
-| | *Year* | 2008
-| | *Position* | Java developer
-| | *Project* | Electronic declaration system footnote:[http://www.nicetu.spb.ru/index.php/ru/resheniya-i-proekty/sistema-monitoringa-i-kontrolya-soversheniya-tamozhennykh-operatsij]
-| | *Customer* | The Federal Customs Service of Russia
-| | *Technologies* | JSP, Tomcat, Oracle, JavaScript, Ant, SVN
-|===
-
-//----------------------------------------------------------------------------------------------------------------------
-
-== Educational background
-
-=== 2012 - 2015
-
-[frame=none]
-[grid=none]
-[cols="5%,20%,75%"]
-|===
-| | *University* | Saint Petersburg State Forestry Technical University, Russia
-| | *Degree* | Ph. D. (Technology)
-| | *Major subject* | Industrial process management and automation
-|===
-
-=== 2010 - 2012
-
-[frame=none]
-[grid=none]
-[cols="5%,20%,75%"]
-|===
-| | *University* | Lappeenranta University of Technology, Finland
-| | *Degree* | M. Sc. (Technology)
-| | *Major Subject* | Communication software
-|===
-
-=== 2009 - 2011
-
-[frame=none]
-[grid=none]
-[cols="5%,20%,75%"]
-|===
-| | *University* | Saint Petersburg State Electrotechnical University, Russia
-| | *Degree* | M. Sc. (Technology)
-| | *Major Subject* | Applied mathematics and informatics
-|===
-
-=== 2005 - 2009
-
-[frame=none]
-[grid=none]
-[cols="5%,20%,75%"]
-|===
-| | *University* | Saint Petersburg State Electrotechnical University, Russia
-| | *Degree* | B. Sc. (Technology)
-| | *Major Subject* | Engineering and technology
-|===
-
-//----------------------------------------------------------------------------------------------------------------------
-
-== Language skills
-
-[frame=none]
-[grid=none]
-[cols="5%,20%,75%"]
-|===
-| | *Russian* | Native
-| | *English* | Upper-intermediate, fluent
-| | *Finnish* | Basic
-|===
-
-//----------------------------------------------------------------------------------------------------------------------
-
-== Publications
-
-[frame=none]
-[grid=none]
-[cols="5%,20%,75%"]
-|===
-| | *In English* | I. Botian, ‘Software security vulnerabilities in mobile peer-to-peer environment“, ISBN 978-3-659-11253-9
-| | *In Russian* | 6 publications (machine learning, SVM)
-|===
-
-//----------------------------------------------------------------------------------------------------------------------
-
-== Links
-
-// all links go here as footnotes
+Люблю то, над чем работаю, стараюсь делать это хорошо.
+К задачам отношусь с энтузиазмом, умею сам ставить их себе.
+В общении честен перед собой и коллегами, в команде занимаю проактивную позицию.
