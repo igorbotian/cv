@@ -91,8 +91,8 @@ _Core Java_, _Maven_, _Linux_
 [width=100%]
 [cols="20%,80%"]
 |===
-| *На английском* | I. Botian, "Software security vulnerabilities in mobile peer-to-peer environment", ISBN 978-3-659-11253-9
-| *На русском* | 6 публикаций в области машинного обучения (SVM)
+| *На английском* | I. Botian, "Software security vulnerabilities in mobile peer-to-peer environment", ISBN 978-3-659-11253-9 (https://github.com/igorbotian/msc-thesis/releases[ссылка])
+| *На русском* | 6 публикаций в области машинного обучения (SVM) (https://github.com/igorbotian/phd-articles/releases[ссылка])
 |===
 
 === О себе
