@@ -18,6 +18,6 @@ jobs:
         name: cv_igor_botian_ru
         path: cv_igor_botian_ru.pdf
     - uses: actions/upload-artifact@v1
-        with:
-          name: cv_igor_botian_en
-          path: cv_igor_botian_en.pdf
+      with:
+        name: cv_igor_botian_en
+        path: cv_igor_botian_en.pdf
