@@ -9,8 +9,15 @@ jobs:
     - uses: actions/checkout@v1
     - uses: docker://asciidoctor/docker-asciidoctor:latest
       with:
-        args: asciidoctor-pdf -o cv_igor_botian.pdf cv.adoc
+        args: asciidoctor-pdf -o cv_igor_botian_ru.pdf cv_ru.adoc
+    - uses: docker://asciidoctor/docker-asciidoctor:latest
+      with:
+        args: asciidoctor-pdf -o cv_igor_botian_en.pdf cv_en.adoc
     - uses: actions/upload-artifact@v1
       with:
-        name: cv_igor_botian
-        path: cv_igor_botian.pdf
+        name: cv_igor_botian_ru
+        path: cv_igor_botian_ru.pdf
+    - uses: actions/upload-artifact@v1
+        with:
+          name: cv_igor_botian_en
+          path: cv_igor_botian_en.pdf
